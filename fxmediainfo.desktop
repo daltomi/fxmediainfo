@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=FXMediaInfo
+Comment=MediaInfo front-end by FOX Toolkit
+Icon=/usr/share/fxmediainfo/fxmediainfo.png
+Exec=fxmediainfo %f 
+Terminal=false
+MimeType=
+Categories=AudioVideo;AudioVideoEditing;

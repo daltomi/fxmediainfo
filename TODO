@@ -1,0 +1,34 @@
+2015-09-03  daltomi <daltomi@disroot.org>
+
+ * Diff
+ - 	Dado 2 itemes del mismo tipo(audio, video, etc) mostrar las diferencias
+	entre ellos.
+
+
+
+2015-09-03  daltomi <daltomi@disroot.org>
+
+ * Directory recursive.
+
+ - 	Implementar la busqueda recursiva en un directorio en particular, 
+	con apertura de cada archivo encontrado.
+	
+
+
+
+2015-09-03  daltomi <daltomi@disroot.org>
+
+ *  Menu property.
+ 
+ - 	Se debe testear si esta propiedad se lista enumerada, como sucede
+	con AUDIO y TEXT, ej: Audio #1, Audio #2
+
+
+
+
+
+
+
+
+
+

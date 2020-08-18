@@ -1,0 +1,10 @@
+Contributors:
+
+
+Icons by  "Win2-7 Pack GNOME Icon Theme"
+=== License: ===
+ The Pack is Licensed under GPL.
+ It does include proprietary graphics from Microsoft but those are installed only
+ if you select "Win2-7 Restricted Extras" which would make the 
+ Win2-7 Pack Proprietary and they are not selected by default. 
+ As long as that option is not checked the Win2-7 Pack is GPL.

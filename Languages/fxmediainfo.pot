@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fxmediainfo 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-04 01:38-0300\n"
+"PO-Revision-Date: 2015-03-04 01:43-0300\n"
+"Last-Translator: daltomi <daltomi@disroot.org>\n"
+"Language-Team: LANGUAGE <daltomi@aol.com>\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: ../help.cxx:45
+msgid "FXMediaInfo - About..."
+msgstr "FXMediaInfo - Acerca de..."
+
+#: ../help.cxx:62
+msgid "C&ontributors..."
+msgstr "C&ontribuidores..."
+
+#: ../help.cxx:64
+msgid "&Close"
+msgstr "&Cerrar"
+
+#: ../program.cxx:79
+#, c-format
+msgid ""
+"File not found.\n"
+"%s"
+msgstr ""
+"Archivo no encontrado.\n"
+"%s"
+
+#: ../program.cxx:81
+msgid "FXMediaInfo - Information"
+msgstr "FXMediaInfo - Información"
+
+#: ../program.cxx:225 ../window.cxx:433 ../window.cxx:441
+msgid "FXMediaInfo - Save information"
+msgstr "FXMediaInfo - Guardar información"
+
+#: ../program.cxx:226
+#, c-format
+msgid ""
+"Error save file %s.\n"
+"Possibly not have permissions."
+msgstr ""
+"Error al guardar el archivo %s.\n"
+"Posiblemente no tenga permisos."
+
+#: ../run_xdg_open.cxx:39
+msgid "FXMediaInfo - Error"
+msgstr "FXMediaInfo - Error"
+
+#: ../run_xdg_open.cxx:40
+#, c-format
+msgid ""
+"Failed to execute the process:\n"
+"%s"
+msgstr ""
+"Falló la ejecución del proceso:\n"
+"%s"
+
+#: ../window.cxx:109
+msgid "Ready."
+msgstr "Listo."
+
+#: ../window.cxx:124
+msgid "&File"
+msgstr "&Archivo"
+
+#: ../window.cxx:127
+msgid "&Open...\tCtrl-O\tOpen a new media file."
+msgstr "A&brir..\tCtrl-A\tAbrir un nuevo archivo multimedia."
+
+#: ../window.cxx:130
+msgid "&Save...\tCtrl-S\tSave information list."
+msgstr "&Guardar...\tCtrl-G\tGuardar lista de información."
+
+#: ../window.cxx:144
+msgid "&Clear recent files\t\tClean list of recently opened files."
+msgstr "&Limpiar archivos recientes\t\tLimpiar listado de archivos recientes."
+
+#: ../window.cxx:149
+msgid "&Quit\tCtrl-Q\tExit program."
+msgstr "&Salir\tCtrl-S\tSalir del programa."
+
+#: ../window.cxx:159
+msgid "O&ptions"
+msgstr "&Opciones"
+
+#: ../window.cxx:162
+msgid "&Change Font...\t\tChange font type."
+msgstr "&Cambiar Fuente...\t\tCambiar tipo de fuente."
+
+#: ../window.cxx:167
+msgid "C&lear open files\t\tClear list of open files."
+msgstr "&Limpiar lista archivos abiertos\t\tLimpia la lista de archivos abiertos."
+
+#: ../window.cxx:176
+msgid "&Help"
+msgstr "A&yuda"
+
+#: ../window.cxx:179
+msgid "Help...\tF1\tShow html help"
+msgstr "Ayuda...\tF1\tMuestra ayuda html"
+
+#: ../window.cxx:183
+msgid "&About\t\tShow dialog About."
+msgstr "A&cerca de\t\tMuestra el diálogo Acerca de"
+
+#: ../window.cxx:201
+msgid ""
+"Powered by MediaInfo\n"
+"http://mediaarea.net/MediaInfo"
+msgstr ""
+"Powered by MediaInfo\n"
+"http://mediaarea.net/MediaInfo"
+
+#: ../window.cxx:218
+msgid "&Open...\tOpen a new media file.\tOpen a new media file."
+msgstr "&Abrir...\tAbrir archivo multimedia.\tAbre un nuevo archivo multimedia."
+
+#: ../window.cxx:222
+msgid "&Save...\tSave information list.\tSave information list."
+msgstr "&Guardar...\tGuardar lista de informe.\tGuarda la lista de informe."
+
+#: ../window.cxx:235
+msgid "List of open files:"
+msgstr "Lista de archivos abiertos:"
+
+#: ../window.cxx:249
+msgid "Drag your files here..."
+msgstr "Arrastre sus archivos aquí..."
+
+#: ../window.cxx:262 ../window.cxx:609
+msgid "Information:"
+msgstr "Información:"
+
+#: ../window.cxx:267 ../window.cxx:608
+msgid "File:"
+msgstr "Archivo:"
+
+#: ../window.cxx:379
+msgid "FXMediaInfo - Open multimedia files"
+msgstr "FXMediaInfo - Abrir archivos multmedia"
+
+#: ../window.cxx:441
+msgid "Do you want to overwrite the file?"
+msgstr "¿Quiere sobrescribir el archivo?"
+
+#: ../window.cxx:522 ../window.cxx:634
+msgid "File: "
+msgstr "Archivo: "
+
+#: ../window.cxx:523 ../window.cxx:682
+msgid "General information"
+msgstr "General información"
+
+#: ../window.cxx:535 ../window.cxx:643
+msgid "Video"
+msgstr "Video"
+
+#: ../window.cxx:539 ../window.cxx:647
+msgid "Audio"
+msgstr "Audio"
+
+#: ../window.cxx:543 ../window.cxx:651
+msgid "Image"
+msgstr "Imagen"
+
+#: ../window.cxx:547 ../window.cxx:655
+msgid "Text"
+msgstr "Texto"
+
+#: ../window.cxx:551 ../window.cxx:675
+msgid "Menu"
+msgstr "Menu"
+
+#: ../window.cxx:560
+#, c-format
+msgid "Audio #%i"
+msgstr "Audio #%i"
+
+#: ../window.cxx:565
+#, c-format
+msgid "Text #%i"
+msgstr "Texto #%i"
+
+#: ../window.cxx:641
+msgid " information"
+msgstr " información"
+
+#: ../window.cxx:659
+msgid "Audio #"
+msgstr "Audio #"
+
+#: ../window.cxx:667
+msgid "Text #"
+msgstr "Texto #"
+
+#: ../window.cxx:720
+msgid "FXMediaInfo - Select one font"
+msgstr "FXMediaInfo - Seleccione una fuente"
+
+#: ../window.cxx:861
+msgid "Copy"
+msgstr "Copiar"
+
+#~ msgid "&About...\t\tShow dialog About."
+#~ msgstr "A&cerca de...\t\tMuestra diálogo Acerca de..."
+
+#~ msgid "&Open\tOpen a new media file.\tOpen a new media file."
+#~ msgstr "A&brir\tAbrir nuevo archivo multimedia\tAbrir nuevo archivo multimedia."
+
+#~ msgid "&Save\tSave information list.\tSave information list."
+#~ msgstr "&Guardar\tGuardar lista de información.\tGuardar lista de información."
+
+#~ msgid "FXMediaInfo - About"
+#~ msgstr "FXMediaInfo - Acerca de..."
+
+#~ msgid "FXMediaInfo - Save Inform file"
+#~ msgstr "FXMediaInfo - Guardar lista de información"
+
+#~ msgid "Files: 0"
+#~ msgstr "Archivos: 0"
+
+#~ msgid "Files: %i"
+#~ msgstr "Archivos: %i "
